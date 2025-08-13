@@ -1,0 +1,5 @@
+venv
+mlp_x.npy
+mlp_y.npy
+cnn_x.npy
+cnn_y.npy

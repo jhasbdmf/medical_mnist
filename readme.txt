@@ -1,0 +1,1 @@
+Run data preprocessor first to get numpy-readable representations of the medical mnist dataset. 
